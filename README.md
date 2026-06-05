@@ -31,10 +31,13 @@ Este proyecto se enfocó en el análisis crítico de requisitos y el diseño de 
 * **Casos de Prueba:** [Ver Casos de Prueba](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing)
 
 
-## 📸 Evidencias de Ejecución
+## 📸 "Interfaz de Usuario (Capturas de apoyo)"
+Nota: El presente proyecto se enfoca en el diseño de casos de prueba y clases de equivalencia. Las capturas adjuntas son una representación visual de la interfaz donde se aplicarían dichos casos.
 | Caso de Prueba | Evidencia |
 | :--- | :--- |
 | **CASO-1** | ![Evidencia 1](evidencia1.png) |
 | **CASO-2** | ![Evidencia 2](evidencia2.png) |
+<img width="1366" height="653" alt="Urban-Routes 1" src="https://github.com/user-attachments/assets/ba98fe13-d53a-4b35-bf6b-8393545763df" />
+<img width="1366" height="637" alt="Urban-Routes" src="https://github.com/user-attachments/assets/34172a9d-868c-410a-b400-96e15cd65236" />
 
 
