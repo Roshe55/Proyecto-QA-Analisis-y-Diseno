@@ -18,3 +18,24 @@ Este proyecto se enfocó en el análisis crítico de requisitos y el diseño de 
 ## 📈 Resultados
 *   Documentación técnica clara que sirvió como base para la ejecución de pruebas.
 *   Cobertura de pruebas robusta, asegurando que los casos críticos fueran identificados antes de la fase de ejecución.
+
+## 🧠 Análisis y Diseño
+* **Mapa Mental:**
+<img width="1240" height="1754" alt="Carmen Rocio Soto de la Rosa, grupo 75- 2 sprint drawio MAPA MENTAL_page-0001" src="https://github.com/user-attachments/assets/a86c6c02-d629-4e4a-8708-212008624969" />
+
+* **Diagrama de Flujo:**
+<img width="1240" height="1754" alt="Carmen Rocio Soto de la Rosa, grupo-75 -2 Sprint drawio DIAGRAMA DE FLUJO_page-0001" src="https://github.com/user-attachments/assets/10e37ab4-ff82-4e59-9070-cac050bc9a1c" />
+
+## 🧪 Estrategia de Pruebas
+
+* **Clases de Equivalencia:** [Ver Clases de Equivalencia](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINTzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
+
+* **Casos de Prueba:** [Ver Casos de Prueba](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINTzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
+
+## 📸 Evidencias de Ejecución
+| Caso de Prueba | Evidencia |
+| :--- | :--- |
+| **CASO-1** | ![Evidencia 1](evidencia1.png) |
+| **CASO-2** | ![Evidencia 2](evidencia2.png) |
+
+
