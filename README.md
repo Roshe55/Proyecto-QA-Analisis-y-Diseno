@@ -27,9 +27,9 @@ Este proyecto se enfocó en el análisis crítico de requisitos y el diseño de 
 <img width="1240" height="1754" alt="Carmen Rocio Soto de la Rosa, grupo-75 -2 Sprint drawio DIAGRAMA DE FLUJO_page-0001" src="https://github.com/user-attachments/assets/10e37ab4-ff82-4e59-9070-cac050bc9a1c" />
 
 ## 🧪 Estrategia de Pruebas
+* **Clases de Equivalencia:** [Ver Clases de Equivalencia]([TU_ENLACE_AQUÍ)](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
+* **Casos de Prueba:** [Ver Casos de Prueba]([TU_ENLACE_AQUÍ](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
 
-* **Clases de Equivalencia:** [Ver Clases de Equivalencia]([PEGA_AQUÍ_TU_ENLACE](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
-* **Casos de Prueba:** [Ver Casos de Prueba]([PEGA_AQUÍ_TU_ENLACE](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
 
 ## 📸 Evidencias de Ejecución
 | Caso de Prueba | Evidencia |
