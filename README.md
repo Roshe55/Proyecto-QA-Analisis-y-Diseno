@@ -28,9 +28,8 @@ Este proyecto se enfocó en el análisis crítico de requisitos y el diseño de 
 
 ## 🧪 Estrategia de Pruebas
 
-* **Clases de Equivalencia:** [Ver Clases de Equivalencia](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINTzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
-
-* **Casos de Prueba:** [Ver Casos de Prueba](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINTzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
+* **Clases de Equivalencia:** [Ver Clases de Equivalencia]([PEGA_AQUÍ_TU_ENLACE](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
+* **Casos de Prueba:** [Ver Casos de Prueba]([PEGA_AQUÍ_TU_ENLACE](https://docs.google.com/spreadsheets/d/1jaMovV-K2NV7b5FkbINtzeZsGYqEibBO/edit?usp=sharing&ouid=113006480662844339957&rtpof=true&sd=true)
 
 ## 📸 Evidencias de Ejecución
 | Caso de Prueba | Evidencia |
